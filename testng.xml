@@ -1,0 +1,11 @@
+<suite name="Henteck- Market Automation">
+	<test name="Henteck- Market Automation">
+		<classes>
+			<class name="tests.DemoRegistrationTest" />
+			<class name="tests.DemoRegistrationTestValidation" />
+			<class name="tests.RegstPersonalAccount" />
+			<class name="tests.RegstPersonalAccountValidation" />
+			
+		</classes>
+	</test>
+</suite>
