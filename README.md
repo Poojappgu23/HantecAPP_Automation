@@ -1,2 +1,2 @@
-# HenteckAPP_Automation
+# HanteckAPP_Automation
 UI selenium automation for live Henteck application
